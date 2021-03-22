@@ -35,6 +35,6 @@ class ViewController: UIViewController {
     print(weekArray)
     print(array)
     print(array.count)
-
+    print("Hello work")
 }
 }
